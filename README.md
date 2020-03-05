@@ -4,7 +4,7 @@ Ayu Dark Colorscheme for IntelliJ (focused on Go Programming Language) based on 
 
 Material (Windows) Color => Material Deep Ocean: https://github.com/ChrisRM/material-theme-jetbrains
 
-Jetbrains Plugin Page: N/A
+Jetbrains Plugin Page: https://plugins.jetbrains.com/plugin/13888-ayu-dark-color-scheme/
 
 Installation (Mac):
 - Copy "*.icls" to "/Users/\<Username\>/Library/Preferences/IntelliJIdea\<Version\>/colors"
