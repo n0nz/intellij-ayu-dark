@@ -1,2 +1,12 @@
-# intellij-ayu-dark
-Ayu Dark colorscheme for IntelliJ Product
+# Ayu Dark Colorscheme for Intellij (Go Programming Language)
+
+Ayu Dark Colorscheme for IntelliJ (focused on Go Programming Language) based on https://github.com/dempfi/ayu
+
+Material (Windows) Color => Material Deep Ocean: https://github.com/ChrisRM/material-theme-jetbrains
+
+Jetbrains Plugin Page: N/A
+
+Installation (Mac):
+- Copy "*.icls" to "/Users/\<Username\>/Library/Preferences/IntelliJIdea\<Version\>/colors"
+
+![Screenshot 01](https://raw.githubusercontent.com/nzer0nz/intellij-ayu-dark/master/screenshots/AyuDarkSS.png)
